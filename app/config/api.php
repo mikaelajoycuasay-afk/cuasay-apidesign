@@ -96,7 +96,7 @@ $config['refresh_token_key'] = '0bNvxjPFJ6dhi1Ttf7AStp95zUcd1iy94mjblklwfPs';
 | already deployed.
 |
 */
-$config['allow_origin'] = getenv('FRONTEND_ORIGIN') ?: 'https://cueto-lab6-frontend-nextjs.vercel.app';
+$config['allow_origin'] = getenv('FRONTEND_ORIGIN') ?: 'https://ui-cuasay.vercel.app';
 
 /*
 |--------------------------------------------------------------------------
